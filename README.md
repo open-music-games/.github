@@ -1,1 +1,1 @@
-# .github
+# Open Music Games
