@@ -1,5 +1,5 @@
-## Open Music Games
-This is the official GitHub Organization of Open Music Games.org - the central hub of open music games! Started in 2022! We communicate the whole ecosytem around UltraStar Deluxe Games, Vocaluxe and Performous.
+## Welcome!
+This is the official GitHub Organization of Open Music Games.org - the central hub of open music games! Started in 2022! We communicate the whole ecosytem around UltraStar Deluxe Games, Vocaluxe and Performous. Our main goal is to strenghten the co-working between the projects and enable the devs to bring up complete games.
 <!--
 
 **Here are some ideas to get you started:**
