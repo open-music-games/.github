@@ -11,4 +11,5 @@
 - 🎵 Learn more about what we're doing in [open-musicgames.org](https://www.open-music-games.org).
 - 👋 [Meet the teams!](https://www.open-music-games.org/community/meet-the-teams) and look behind the scenes!
 - 🙂 Interested to join? [How To Join As Developer](https://www.open-music-games.org/community/be-part-of-us#how-to-join-as-developer)! We need everything.
+- 📫 Introduce yourself via [Join@open-music-games.org](mailto:join@open-music-games.org) and we give you suitable tasks
 - ❔ Any questions? [FAQ For Developers](https://www.open-music-games.org/help/frequently-asked-questions#for-developers)
