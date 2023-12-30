@@ -1,10 +1,14 @@
-![open-music-games-banner-6](https://github.com/open-music-games/.github/assets/63517874/5bea06df-65cf-467d-9383-8efd8cb89ea8)
-
+![open-music-games-banner-github2](https://github.com/open-music-games/.github/assets/63517874/800d0350-a6a2-4260-b165-bd096b9881c6)
 
 ## Welcome!
 <p>This is the official GitHub organization of Open Music Games.org - the central hub of open music games started in 2022!</p>
 
-<p>We communicate the whole ecosystem around UltraStar Deluxe Games, Vocaluxe and Performous. Our main goal is to strenghten the co-working between the projects and enable the programmers and artists to bring up complete games.</p>
+<p>We communicate the whole ecosystem around UltraStar Deluxe Games, Vocaluxe and Performous for players. But we help developers too. For instance by doing project management, non-profit-marketing and human ressources.
+  Our main goals are:</p>
+  
+- strenghten the co-working between the projects,
+- setting professional standards
+- and enable the programmers and artists to bring up complete games.</p>
 
 ## Join our team!
 
