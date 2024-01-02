@@ -1,6 +1,5 @@
 ![omg-organization-hero-image](https://github.com/open-music-games/.github/assets/63517874/e03eac61-a472-4657-b1ef-dbe1d72f00b6)
 
-## Welcome!
 <p>This is the official GitHub organization of Open Music Games.org - the central hub of open music games started in 2022!</p>
 
 <p>We communicate the whole ecosystem around UltraStar Deluxe Games, Vocaluxe and Performous for players. But we help developers too. For instance by doing project management, non-profit-marketing and human ressources.
