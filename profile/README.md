@@ -6,7 +6,8 @@
   Our main goals are:</p>
   
 - strenghten the co-working between the projects,
-- setting professional standards
+- setting professional standards,
+- trying to help all projects and players to follow legal requirements
 - and enable the programmers/artists to bring up complete games.
 
 ## Join our team!
